@@ -1,0 +1,19 @@
+#mainImg{
+width : 100%;
+height : 250px;
+}
+#page{
+    width: 900px;
+    margin: 0 auto;
+    padding-top : 100px;
+    background-color: #e9ecef;
+    text-align : center;
+}
+#page img{
+    margin: 50px;
+}
+#pageTitle
+{
+font-size: 40px;
+font-weight: bold
+}
